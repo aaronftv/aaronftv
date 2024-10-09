@@ -1,5 +1,6 @@
-![open to work](https://i.imgur.com/AGPPgHZ.png)
+
 <!--
+![open to work](https://i.imgur.com/AGPPgHZ.png)
 **aaronftv/aaronftv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
